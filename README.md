@@ -23,4 +23,4 @@ Cette application permet de gérer votre présence Rich Presence sur Discord de 
 ### Étapes d'installation
 1. Clonez ce dépôt GitHub :
    ```bash
-   git clone https://github.com/votre-utilisateur/discord-rich-presence-app.git
+   git clone [https://github.com/votre-utilisateur/discord-rich-presence-app.git](https://github.com/tlleoOFF1/RCP_BY_Mazpx.git)
