@@ -12,7 +12,6 @@ Cette application permet de gérer votre présence Rich Presence sur Discord de 
 ## Captures d'écran
 
 ![Capture d'écran 1](screenshot1.png)
-![Capture d'écran 2](screenshot2.png)
 
 ## Installation
 
